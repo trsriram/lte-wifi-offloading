@@ -1,13 +1,16 @@
 # LTE Wi-Fi Offload Mechanism
 
-**Author:** Sriram T R  
-**Date:** August 28, 2014
-**Affiliation:** [Insert your institution, e.g., IIT Madras]  
+This project hosts a technical document explaining the LTE-WiFi offloading mechanism, which enhances cellular network efficiency by leveraging Wi-Fi networks.
+
+- **Author**: Sriram T R
+- **PDF**: [Download PDF](https://github.com/trsriram/lte-wifi-offloading/raw/main/lte_wifi_offload_mechanism.pdf)
 
 ## Abstract
 
-This document explores the integration of LTE and Wi-Fi networks to improve cellular data offloading. The report reviews offloading techniques, architectural mechanisms, and discusses potential benefits and challenges associated with heterogeneous network access.
+This paper explores a network offloading technique that leverages both LTE and Wi-Fi infrastructure to optimize data flow in congested networks. It outlines architectural approaches, performance benefits, and implementation challenges for LTE-WiFi integration.
 
-## 📄 PDF Download
+## Keywords
 
-➡️ [Download the full paper](https://github.com/trsriram/lte-wifi-offloading/raw/main/lte_wifi_offload_mechanism.pdf)
+LTE, Wi-Fi, offload, network architecture, cellular networks, mobile data
+
+---
